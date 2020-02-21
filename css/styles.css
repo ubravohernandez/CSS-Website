@@ -1,0 +1,83 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Sriracha', cursive;
+}
+
+h1 {
+  font-size: 437.5%;
+  margin: auto;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  color: #11999E;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #8ac6d1;
+  text-decoration: none;
+}
+figure{
+  margin: 0;
+}
+.topcontainer {
+  background-color: #d3f4ff;
+  padding-top: 50px;
+}
+
+.introduction {
+  width: 75%;
+  height: 200px;
+  display: block;
+  position: relative;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+.name {
+  font-family: 'Merienda One', cursive;
+  font-weight: normal;
+  color: #66BFBF;
+}
+
+.topcloud {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.profile-picture{
+  width: 25%;
+  border-radius: 36%;
+}
+
+.skills {
+  text-align: center;
+}
+
+.skill-row {
+  width: 75%;
+  margin: 50px auto;
+  text-align: left;
+  line-height: 2;
+  overflow: auto;
+}
+
+.skill-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
